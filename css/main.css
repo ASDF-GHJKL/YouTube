@@ -1,0 +1,55 @@
+body{
+    background-color: #181818;
+}
+#wrapper>#siteheader{
+    background-color: #202020;
+}
+#wrapper>#siteheader>#siteHeaderinner{
+    width: 97%;
+    margin: auto;
+    height: 60px;
+}
+#wrapper>#siteheader>#siteHeaderinner>#icon_menu{
+    line-height: 70px;
+    cursor: pointer;
+    float: left;
+}
+#wrapper>#siteheader>#siteHeaderinner>#logo{
+    line-height: 75px;
+    margin-left: 40px;
+    margin-right: 150px;
+    float: left;
+}
+#wrapper>#siteheader>#siteHeaderinner>.search{
+    margin-top: 10px;
+    float: left;
+}
+#wrapper>#siteheader>#siteHeaderinner>.ico{
+    float: left;
+    margin-left: 25px;
+    line-height: 60px;
+    cursor: pointer;
+}
+#wrapper>#siteheader>#siteHeaderinner>#thelogin{
+    line-height: 85px;
+    float: right;
+    cursor: pointer;
+}
+#wrapper>#container{
+    width: 97%;
+    margin: auto;
+}
+#wrapper>#container>#menu{
+     width: 240px;
+     height: 50px;
+    background-color: #202020;
+ }
+#wrapper>#container>#menu table{
+    color: white;
+}
+#wrapper>#container>#menu table tr td:hover{
+    background-color: #383838;
+}
+#wrapper>#container>#menu table hr{
+    color: yellow;
+}
